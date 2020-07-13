@@ -1,0 +1,11 @@
+{
+  "name": "graphql-of-graphql-js",
+  "version": "0.0.1",
+  "description": "An example project of graphql by using graphql.js",
+  "main": "index.js",
+  "author": "mengj",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^15.3.0"
+  }
+}
